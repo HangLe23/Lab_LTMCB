@@ -1,0 +1,52 @@
+D:\Tai Lieu Hoc Tap\LTMCB\Lab6\Lab6\Lab6\bin\Debug\Lab6.exe.config
+D:\Tai Lieu Hoc Tap\LTMCB\Lab6\Lab6\Lab6\bin\Debug\Lab6.exe
+D:\Tai Lieu Hoc Tap\LTMCB\Lab6\Lab6\Lab6\bin\Debug\Lab6.pdb
+D:\Tai Lieu Hoc Tap\LTMCB\Lab6\Lab6\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+D:\Tai Lieu Hoc Tap\LTMCB\Lab6\Lab6\Lab6\obj\Debug\Lab6.FileDownload.resources
+D:\Tai Lieu Hoc Tap\LTMCB\Lab6\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+D:\Tai Lieu Hoc Tap\LTMCB\Lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+D:\Tai Lieu Hoc Tap\LTMCB\Lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Hoc Tap\LTMCB\Lab6\Lab6\Lab6\obj\Debug\Lab6.exe
+D:\Tai Lieu Hoc Tap\LTMCB\Lab6\Lab6\Lab6\obj\Debug\Lab6.pdb
+D:\Tai Lieu Hoc Tap\LTMCB\Lab6\Lab6\Lab6\obj\Debug\Lab6.FTP_Client.resources
+D:\Tai Lieu Hoc Tap\LTMCB\Lab6_19521745_NguyenPhuongLan\Lab6\Lab6\bin\Debug\Lab6.exe.config
+D:\Tai Lieu Hoc Tap\LTMCB\Lab6_19521745_NguyenPhuongLan\Lab6\Lab6\bin\Debug\Lab6.exe
+D:\Tai Lieu Hoc Tap\LTMCB\Lab6_19521745_NguyenPhuongLan\Lab6\Lab6\bin\Debug\Lab6.pdb
+D:\Tai Lieu Hoc Tap\LTMCB\Lab6_19521745_NguyenPhuongLan\Lab6\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+D:\Tai Lieu Hoc Tap\LTMCB\Lab6_19521745_NguyenPhuongLan\Lab6\Lab6\obj\Debug\Lab6.FileDownload.resources
+D:\Tai Lieu Hoc Tap\LTMCB\Lab6_19521745_NguyenPhuongLan\Lab6\Lab6\obj\Debug\Lab6.FTP_Client.resources
+D:\Tai Lieu Hoc Tap\LTMCB\Lab6_19521745_NguyenPhuongLan\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+D:\Tai Lieu Hoc Tap\LTMCB\Lab6_19521745_NguyenPhuongLan\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+D:\Tai Lieu Hoc Tap\LTMCB\Lab6_19521745_NguyenPhuongLan\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Hoc Tap\LTMCB\Lab6_19521745_NguyenPhuongLan\Lab6\Lab6\obj\Debug\Lab6.exe
+D:\Tai Lieu Hoc Tap\LTMCB\Lab6_19521745_NguyenPhuongLan\Lab6\Lab6\obj\Debug\Lab6.pdb
+C:\Users\Tran Gia Bang\Downloads\Lab6_19521745_NguyenPhuongLan\Lab6_19521745_NguyenPhuongLan\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\Tran Gia Bang\Downloads\Lab6_19521745_NguyenPhuongLan\Lab6_19521745_NguyenPhuongLan\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\Tran Gia Bang\Downloads\Lab6_19521745_NguyenPhuongLan\Lab6_19521745_NguyenPhuongLan\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\Tran Gia Bang\Downloads\Lab6_19521745_NguyenPhuongLan\Lab6_19521745_NguyenPhuongLan\Lab6\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+C:\Users\Tran Gia Bang\Downloads\Lab6_19521745_NguyenPhuongLan\Lab6_19521745_NguyenPhuongLan\Lab6\Lab6\obj\Debug\Lab6.FileDownload.resources
+C:\Users\Tran Gia Bang\Downloads\Lab6_19521745_NguyenPhuongLan\Lab6_19521745_NguyenPhuongLan\Lab6\Lab6\obj\Debug\Lab6.FTP_Client.resources
+C:\Users\Tran Gia Bang\Downloads\Lab6_19521745_NguyenPhuongLan\Lab6_19521745_NguyenPhuongLan\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+C:\Users\Tran Gia Bang\Downloads\Lab6_19521745_NguyenPhuongLan\Lab6_19521745_NguyenPhuongLan\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+C:\Users\Tran Gia Bang\Downloads\Lab6_19521745_NguyenPhuongLan\Lab6_19521745_NguyenPhuongLan\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Tran Gia Bang\Downloads\Lab6_19521745_NguyenPhuongLan\Lab6_19521745_NguyenPhuongLan\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\Tran Gia Bang\Downloads\Lab6_19521745_NguyenPhuongLan\Lab6_19521745_NguyenPhuongLan\Lab6\Lab6\obj\Debug\Lab6.pdb
+C:\Users\Windows 10\Downloads\Lab6_TranGiaBang_20521093\Lab6_TranGiaBang_20521093\Lab6\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Downloads\Lab6_TranGiaBang_20521093\Lab6_TranGiaBang_20521093\Lab6\Lab6\obj\Debug\Lab6.FileDownload.resources
+C:\Users\Windows 10\Downloads\Lab6_TranGiaBang_20521093\Lab6_TranGiaBang_20521093\Lab6\Lab6\obj\Debug\Lab6.FTP_Client.resources
+C:\Users\Windows 10\Downloads\Lab6_TranGiaBang_20521093\Lab6_TranGiaBang_20521093\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+C:\Users\Windows 10\Downloads\Lab6_TranGiaBang_20521093\Lab6_TranGiaBang_20521093\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+C:\Users\Windows 10\Downloads\Lab6_TranGiaBang_20521093\Lab6_TranGiaBang_20521093\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\Lab6_TranGiaBang_20521093\Lab6_TranGiaBang_20521093\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\Windows 10\Downloads\Lab6_TranGiaBang_20521093\Lab6_TranGiaBang_20521093\Lab6\Lab6\obj\Debug\Lab6.pdb
+C:\Users\Windows 10\Downloads\Lab6_TranGiaBang_20521093\Lab6_LeThanhHang\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Downloads\Lab6_TranGiaBang_20521093\Lab6_LeThanhHang\Lab6\obj\Debug\Lab6.FileDownload.resources
+C:\Users\Windows 10\Downloads\Lab6_TranGiaBang_20521093\Lab6_LeThanhHang\Lab6\obj\Debug\Lab6.FTP_Client.resources
+C:\Users\Windows 10\Downloads\Lab6_TranGiaBang_20521093\Lab6_LeThanhHang\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+C:\Users\Windows 10\Downloads\Lab6_TranGiaBang_20521093\Lab6_LeThanhHang\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+C:\Users\Windows 10\Downloads\Lab6_TranGiaBang_20521093\Lab6_LeThanhHang\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\Lab6_TranGiaBang_20521093\Lab6_LeThanhHang\Lab6\obj\Debug\Lab6.exe
+C:\Users\Windows 10\Downloads\Lab6_TranGiaBang_20521093\Lab6_LeThanhHang\Lab6\obj\Debug\Lab6.pdb
+C:\Users\Windows 10\Downloads\Lab6_TranGiaBang_20521093\Lab6_LeThanhHang\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\Windows 10\Downloads\Lab6_TranGiaBang_20521093\Lab6_LeThanhHang\Lab6\bin\Debug\Lab6.exe
+C:\Users\Windows 10\Downloads\Lab6_TranGiaBang_20521093\Lab6_LeThanhHang\Lab6\bin\Debug\Lab6.pdb

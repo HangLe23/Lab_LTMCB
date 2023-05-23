@@ -1,0 +1,30 @@
+D:\LT mạng căn bản\Thực hành\Lab01\Lab01\bin\Debug\Lab01.exe.config
+D:\LT mạng căn bản\Thực hành\Lab01\Lab01\bin\Debug\Lab01.exe
+D:\LT mạng căn bản\Thực hành\Lab01\Lab01\bin\Debug\Lab01.pdb
+D:\LT mạng căn bản\Thực hành\Lab01\Lab01\obj\Debug\Lab01.csproj.AssemblyReference.cache
+D:\LT mạng căn bản\Thực hành\Lab01\Lab01\obj\Debug\Lab01.Lab01.resources
+D:\LT mạng căn bản\Thực hành\Lab01\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+D:\LT mạng căn bản\Thực hành\Lab01\Lab01\obj\Debug\Lab01.csproj.GenerateResource.cache
+D:\LT mạng căn bản\Thực hành\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+D:\LT mạng căn bản\Thực hành\Lab01\Lab01\obj\Debug\Lab01.exe
+D:\LT mạng căn bản\Thực hành\Lab01\Lab01\obj\Debug\Lab01.pdb
+D:\LT mạng căn bản\Thực hành\Lab01\Lab01\obj\Debug\Lab01.Lab01_Bai1.resources
+D:\LT mạng căn bản\Thực hành\Lab01\Lab01\obj\Debug\Lab01.Lab01_Bai2.resources
+D:\LT mạng căn bản\Thực hành\Lab01\Lab01\obj\Debug\Lab01.Lab01_Bai3.resources
+D:\LT mạng căn bản\Thực hành\Lab01\Lab01\obj\Debug\Lab01.Lab01_Bai4.resources
+D:\LT mạng căn bản\Thực hành\Lab01\Lab01\obj\Debug\Lab01.Lab01_Bai5.resources
+D:\NT106_LTMCB\Lab\Lab01\Lab01\bin\Debug\Lab01.exe.config
+D:\NT106_LTMCB\Lab\Lab01\Lab01\bin\Debug\Lab01.exe
+D:\NT106_LTMCB\Lab\Lab01\Lab01\bin\Debug\Lab01.pdb
+D:\NT106_LTMCB\Lab\Lab01\Lab01\obj\Debug\Lab01.csproj.AssemblyReference.cache
+D:\NT106_LTMCB\Lab\Lab01\Lab01\obj\Debug\Lab01.Lab01_Bai1.resources
+D:\NT106_LTMCB\Lab\Lab01\Lab01\obj\Debug\Lab01.Lab01_Bai2.resources
+D:\NT106_LTMCB\Lab\Lab01\Lab01\obj\Debug\Lab01.Lab01_Bai3.resources
+D:\NT106_LTMCB\Lab\Lab01\Lab01\obj\Debug\Lab01.Lab01_Bai4.resources
+D:\NT106_LTMCB\Lab\Lab01\Lab01\obj\Debug\Lab01.Lab01_Bai5.resources
+D:\NT106_LTMCB\Lab\Lab01\Lab01\obj\Debug\Lab01.Lab01.resources
+D:\NT106_LTMCB\Lab\Lab01\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+D:\NT106_LTMCB\Lab\Lab01\Lab01\obj\Debug\Lab01.csproj.GenerateResource.cache
+D:\NT106_LTMCB\Lab\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+D:\NT106_LTMCB\Lab\Lab01\Lab01\obj\Debug\Lab01.exe
+D:\NT106_LTMCB\Lab\Lab01\Lab01\obj\Debug\Lab01.pdb
